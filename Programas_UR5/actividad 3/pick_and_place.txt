@@ -1,0 +1,28 @@
+ Program
+   Robot Program
+     Popup: ENCENDER ENTRADA DIGITAL 0
+     Wait DI[0]=LO
+     MoveJ
+       Waypoint_1
+       Waypoint_2
+       Set DO[0]=Off
+       Wait: 1.0
+       Waypoint_3
+     MoveL
+       Waypoint_4
+       Waypoint_5
+       Set DO[0]=On
+       Wait: 1.0
+       Waypoint_6
+     MoveJ
+       Waypoint_7
+       Waypoint_8
+       Set DO[0]=Off
+       Wait: 1.0
+       Waypoint_9
+     MoveL
+       Waypoint_10
+       Waypoint_11
+       Set DO[0]=On
+       Wait: 1.0
+       Waypoint_12

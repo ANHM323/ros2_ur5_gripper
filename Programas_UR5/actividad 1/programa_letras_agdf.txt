@@ -1,0 +1,43 @@
+ Program
+   Robot Program
+     Popup: simulacion letra a
+     MoveL
+       Waypoint_1
+       Waypoint_2
+       Waypoint_3
+       Waypoint_4
+       Waypoint_5
+       Waypoint_6
+       Waypoint_7
+       Waypoint_8
+     Popup: simulacion letra g
+     MoveL
+       Waypoint_9
+       Waypoint_10
+       Waypoint_11
+       Waypoint_12
+       Waypoint_13
+       Waypoint_14
+       Waypoint_15
+       Waypoint_16
+     Popup: simulacion letra d
+     MoveL
+       Waypoint_17
+       Waypoint_18
+       Waypoint_19
+       Waypoint_20
+       Waypoint_21
+       Waypoint_22
+       Waypoint_23
+       Waypoint_24
+     Popup: simulacion letra f
+     MoveL
+       Waypoint_25
+       Waypoint_26
+       Waypoint_27
+       Waypoint_28
+       Waypoint_29
+       Waypoint_30
+       Waypoint_31
+       Waypoint_32
+       Waypoint_33

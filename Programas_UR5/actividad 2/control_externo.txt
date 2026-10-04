@@ -1,0 +1,6 @@
+ Program
+   Robot Program
+     Set DO[1]=On
+     Popup: el programa sera compartido con un controlador externo en 5 segundos
+     Wait: 5.0
+     Control by 192.168.56.1
