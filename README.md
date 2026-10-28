@@ -8,9 +8,6 @@ Workspace simplificado con los paquetes mínimos para simular y controlar un UR5
 - `ros2_robotiq_gripper` - Control del gripper
 - `ur5_gripper_moveit_config` - Configuración MoveIt
 
-## Archivo de referencia
-- `ROS2_UR5_GRIPPER_MINIMO.md` - Documentación completa (simulador, errores, comandos, estructura)
-
 ## Lanzar simulador
 ```bash
 docker exec -it ros2-jazzy bash
@@ -22,7 +19,3 @@ ros2 launch ur_simulation_gz ur_sim_control.launch.py \
   controllers_file:=/home/andyh/distrobox-homes/ros2-jazzy/ur5_sim_ws/install/ur5_gripper_description/share/ur5_gripper_description/config/controllers_ur5_gripper.yaml \
   gazebo_gui:=false launch_rviz:=false
 ```
-
-## Usuario / Autor
-- `ANHM323`
-- `andyh@escuelaing.edu.co`
